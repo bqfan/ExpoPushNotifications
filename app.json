@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PushNotifications2",
-    "slug": "PushNotifications2",
+    "name": "PushNotifications",
+    "slug": "expopushnotifications",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,7 +14,7 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.wa2goose.PushNotifications2"
+      "bundleIdentifier": "com.healthq.PushNotifications"
     },
     "android": {
       "adaptiveIcon": {
@@ -22,14 +22,14 @@
         "backgroundColor": "#ffffff"
       },
       "googleServicesFile": "./android/app/google-services.json",
-      "package": "com.wa2goose.PushNotifications2"
+      "package": "com.healthq.PushNotifications"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "e9370c3c-47e4-477b-9344-1a211f2aead2"
+        "projectId": "9aa5ee91-a02a-4152-9667-03f8ffba20dc"
       }
     }
   }

@@ -1,4 +1,4 @@
-package com.wa2goose.PushNotifications2
+package com.healthq.PushNotifications
 
 import android.os.Build
 import android.os.Bundle

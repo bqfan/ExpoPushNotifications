@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "865486165032",
-    "project_id": "expopushnotifications2",
-    "storage_bucket": "expopushnotifications2.appspot.com"
+    "project_number": "644800329122",
+    "project_id": "expopushnotifications-d329a",
+    "storage_bucket": "expopushnotifications-d329a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:865486165032:android:59b4b82146399010c9d11d",
+        "mobilesdk_app_id": "1:644800329122:android:bcba7bd69ac45dd065aefb",
         "android_client_info": {
-          "package_name": "com.wa2goose.PushNotifications2"
+          "package_name": "com.healthq.PushNotifications"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDKP-Z465NNSVsrXAEIcAZEOxHRdI4Mtuk"
+          "current_key": "AIzaSyDItqRIhLlE2m3D-JiUqdxOB1hNyZHv84w"
         }
       ],
       "services": {
